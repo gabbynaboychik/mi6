@@ -157,10 +157,10 @@ textarea::-ms-input-placeholder { /* Microsoft Edge */
     }
 
     .tm-menu-item img {
-        margin-bottom: 100px;
+        margin-bottom: 10px;
     }
 
     .tm-menu-item-2 img {
-        margin-bottom: 100px;
+        margin-bottom: 10px;
     }
 }
