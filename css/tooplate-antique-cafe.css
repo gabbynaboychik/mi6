@@ -53,11 +53,11 @@ footer span a { color: #FFF; }
 }
 
 .tm-text-green {
-    color: #006666;
+    color: #022112;
 }
 
 a.tm-bg-green:hover {
-    background-color: #0a8585;
+    background-color: #022112;
 }
 
 .tm-bg-brown {
@@ -65,7 +65,7 @@ a.tm-bg-green:hover {
 }
 
 .tm-bg-green {
-    background-color: #006666;
+    background-color: #022112;
 }
 
 .tm-border-gold {
